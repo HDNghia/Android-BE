@@ -15,7 +15,7 @@ const swaggerDefinition = {
     },
     servers: [
         {
-            url: "https://andoroid-be.herokuapp.com/"
+            url: "https://gym-management-be.herokuapp.com/"
         }
     ],
     paths: {
