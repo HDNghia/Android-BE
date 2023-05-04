@@ -10,7 +10,7 @@ const service = require('./src/swaggerDefinitions/serviceType')
 const swaggerDefinition = {
     openapi: '3.0.0',
     info: {
-        title: "Nodejs api project for mongoDB",
+        title: "App android gym management",
         version: '1.0.0'
     },
     servers: [
